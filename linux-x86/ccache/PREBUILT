@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The prebuilt ccache was built from source files from git://git.samba.org/ccache.git @ c9f60ad
+=======
+The prebuilt ccache was built from source files inside ccache-3.1.9.tar.gz.
+>>>>>>> android-5.0.0_r2
 The ccache-3.1.9.tar.gz file was dowloaded from http://ccache.samba.org/download.html.
 
 Linux build environment: x86_64, Ubuntu 12.04 (precise)
